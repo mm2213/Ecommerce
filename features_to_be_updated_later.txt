@@ -1,0 +1,9 @@
+1. theodore logo mobile dimension short krni hai.
+
+2. software to be made to change dimension, resolution and dpi for large number of products.
+
+3. one product category should be other (feature to be added that admin can add the watch to more than one product category).
+
+4. products categories and categories panel on left side of shop page are working same but it should be different.
+
+5. Contact Us form- submit button not working 
